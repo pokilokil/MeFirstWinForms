@@ -53,6 +53,7 @@
             this.LeftRubBtn.Name = "LeftRubBtn";
             this.LeftRubBtn.Size = new System.Drawing.Size(100, 23);
             this.LeftRubBtn.TabIndex = 0;
+            this.LeftRubBtn.TextChanged += new System.EventHandler(this.LeftRubBtn_TextChanged);
             // 
             // LeftKopBtn
             // 
