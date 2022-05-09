@@ -1,0 +1,17 @@
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\bin\Debug\net6.0-windows\MeFirstWinForms.exe
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\bin\Debug\net6.0-windows\MeFirstWinForms.deps.json
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\bin\Debug\net6.0-windows\MeFirstWinForms.runtimeconfig.json
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\bin\Debug\net6.0-windows\MeFirstWinForms.dll
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\bin\Debug\net6.0-windows\MeFirstWinForms.pdb
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.Form1.resources
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.csproj.GenerateResource.cache
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.dll
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\refint\MeFirstWinForms.dll
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.pdb
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\MeFirstWinForms.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\MeFirstWinForms\MeFirstWinForms\obj\Debug\net6.0-windows\ref\MeFirstWinForms.dll
